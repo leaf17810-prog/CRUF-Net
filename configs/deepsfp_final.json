@@ -1,0 +1,30 @@
+{
+  "variant": "full",
+  "batch_size": 16,
+  "seed": 42,
+  "epochs": 360,
+  "scheduler_t_max": 400,
+  "lr": 0.0002,
+  "weight_decay": 0.0001,
+  "eta_min": 2e-06,
+  "clip_norm": 1.0,
+  "validation_every": 20,
+  "warmup_epochs": 10,
+  "ramp_epochs": 20,
+  "loss_weights": {
+    "normal": 1.0,
+    "half": 0.2,
+    "quarter": 0.1,
+    "candidate": 0.5
+  },
+  "utility": {
+    "weight": 0.01,
+    "temperature_deg": 1.0,
+    "margin_deg": 0.25
+  },
+  "dataset": "deepsfp",
+  "protocol": "deepsfp_final",
+  "train_split": "official_train",
+  "validation_split": null,
+  "evaluation_split": "official_test21"
+}

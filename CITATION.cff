@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use CRUF-Net in academic work, please cite the manuscript listed in README.md."
+type: software
+title: "CRUF-Net: Conditional Reconstruction with Utility-Guided Fusion for Shape from Polarization"
+authors:
+  - family-names: Ye
+    given-names: Xiangjie
+    affiliation: Northeastern University
+    email: yexj@mails.neu.edu.cn
+  - family-names: Lin
+    given-names: Songyan
+    affiliation: Northeastern University
+  - family-names: He
+    given-names: Jiale
+    affiliation: Northeastern University
+  - family-names: Chen
+    given-names: Mengqi
+    affiliation: Northeastern University
+  - family-names: Li
+    given-names: Zhidian
+    affiliation: Northeastern University
+license: PolyForm-Noncommercial-1.0.0
+keywords:
+  - shape from polarization
+  - surface normal estimation
+  - conditional reconstruction
+  - utility-guided fusion

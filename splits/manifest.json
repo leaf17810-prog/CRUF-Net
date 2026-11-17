@@ -1,0 +1,8 @@
+{
+  "splits/deepsfp/development_train.csv": "3e3f24fa8b8816f486a5a58eca481f6c91688e90347f34871186f7f8fcf3070d",
+  "splits/deepsfp/development_val.csv": "7f0da7e5b15bfd6b95084a9a8f0f9a33c8a02754e0eb9d6b124ca0f6b87238ca",
+  "splits/deepsfp/official_test21.csv": "1b26ce899ea850fbf41b2e75f1707a6dfe1034374a6ec0675f85c34d22414abd",
+  "splits/deepsfp/official_train.csv": "966467272b065eef93571ad4b52e2739d19ccd1d5f23b995de7af2d50f4b9058",
+  "splits/mus/train.csv": "f32a451d7a8b6c7bc6dbe16c5f30b8848225b71e2e3ed9c8215fcbaee28d2720",
+  "splits/mus/val.csv": "6a4ffa78051ab159c53a6eb20928f7f36b8802f51d6db1d4f2544eb7b9c82098"
+}
